@@ -7,7 +7,7 @@ after submiting the programme will print on the GUI the executioon time based on
 
 
 opertating sequence : 
-1) type in the start and finish line numbers from the .lss file(Listing File).  
+1) type in the start and finish line numbers of the desired function from the .lss file(Listing File).  
 2) browse you local PC/laptop for the .lss file (Listing File). 
 3) click submit 
 4)enjoy ! :) 
