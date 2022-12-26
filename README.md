@@ -6,7 +6,6 @@ the progamme will ask for the start and end lines of the .lss file (Listing File
 after submiting the programme will print on the GUI the executioon time based on the instruction set summary of Atmega32.
 
 
-
 opertating sequence : 
 1) type in the start and finish line numbers from the .lss file(Listing File).  
 2) browse you local PC/laptop for the .lss file (Listing File). 
